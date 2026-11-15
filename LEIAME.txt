@@ -1,0 +1,19 @@
+FELIPAO OS - Launcher (Etapa 2)
+
+COMO GERAR O APK (pelo GitHub, sem instalar nada no PC)
+1. Crie um repositorio novo no GitHub.
+2. Extraia este zip e envie TODOS os arquivos para o repositorio
+   (inclusive a pasta oculta .github).
+3. Abra a aba "Actions" -> "Build APK" -> espere ficar verde.
+   (Se nao iniciar sozinho: "Run workflow".)
+4. Na pagina da execucao, baixe "felipao-launcher-apk" (vem num zip com o app-debug.apk).
+
+COMO INSTALAR NA CAIXA
+1. Copie o app-debug.apk para o pendrive.
+2. Espete o pendrive na TV Box e abra o APK pelo gerenciador de arquivos.
+3. Se pedir, permita "Fontes desconhecidas" nas configuracoes.
+4. Abra o "FELIPAO OS" pela lista de apps.
+5. Ao apertar o botao HOME do controle, se a caixa perguntar qual launcher usar,
+   escolha "Apenas uma vez" no primeiro teste. Assim voce sempre consegue voltar ao original.
+
+SE O BUILD FALHAR: copie o texto vermelho do erro e mande no chat.
